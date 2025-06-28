@@ -1,3 +1,13 @@
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <h1 align="center">Hello there, I'm S0ME2.</h1>
 <h3 align="center">An aspiring data scientist from Tashkent.</h3>
 
@@ -36,9 +46,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s0me2&show_icons=true&locale=en&layout=compact" alt="s0me2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s0me2&show_icons=true&locale=en" alt="s0me2" /></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/S0ME2/S0ME2/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/S0ME2/S0ME2/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/S0ME2/S0ME2/output/pacman-contribution-graph.svg">
-</picture>
