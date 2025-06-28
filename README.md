@@ -1,13 +1,3 @@
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/S0ME2/S0ME2/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/S0ME2/S0ME2/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/S0ME2/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <h1 align="center">Hello there, I'm S0ME2.</h1>
 <h3 align="center">An aspiring data scientist from Tashkent.</h3>
 
